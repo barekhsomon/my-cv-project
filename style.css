@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-color: #EEE;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    max-width:1000px;
+    background-color: #E4f9F5;
+    margin:0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.propic{
+    float: left;
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.header-1{
+    float: left;
+    padding: 30px;
+
+}
+.header-2{
+    float: right;
+    padding: 30px;
+    
+}
+.header-2 a{
+
+    color: #11999e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-2 a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+.div-clear{
+    clear: both;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+
+hr{
+    border: solid black 3px;
+    border-width: 100%;
+    border-bottom: none;
+    margin: 20px auto;
+}
+/*--------------
+personal information 
+-----------------*/
+#persolan-info{
+
+}
+.content{
+   
+
+}
+.left-div{
+
+    width: 30%;
+    float: left;
+}
+.right-div{
+
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    width: 100%;
+    border-bottom: none;
+    margin: 20px auto;
+}
+#work-info{
+
+}
+.Hsc{
+    float: left;
+    width: 45%;
+}
+.BSc{
+    float: left;
+    width: 45%;
+}
+
+
+.bottom{
+
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom a{
+    color: white;
+    text-decoration: none;
+    margin: 20px ;
+}
+.bottom p{
+    color: white;
+    font-size: small;
+    margin-top: 10px;
+}
